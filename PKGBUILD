@@ -2,7 +2,7 @@ export GIT_LFS_SKIP_SMUDGE=1
 
 _pkgname=f3d
 pkgname=f3d-video-git
-pkgver=39517f45
+pkgver=d128c53c
 pkgrel=1
 pkgdesc='A fast and minimalist 3D viewer'
 arch=(x86_64)
