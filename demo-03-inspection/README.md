@@ -2,7 +2,7 @@
 
 ## Metadata
 
-Run `f3d ../assets/eta_asm.stp`.
+Run `f3d ../assets/eta_asm.stp --verbose`.
 Explain that it's possible to inspect some details of the model. Press `M`.
 Press `SHIFT+H` to show the scene hierarchy. Disable some parts.
 
